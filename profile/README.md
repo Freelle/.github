@@ -12,3 +12,5 @@ Equipe:
 Links do projeto:
 
 -  [Documentação](https://github.com/Freelle/Doc-Frelle)
+-  [Backend](https://github.com/Freelle/Backend-Frelle)
+-  [Frontend](https://github.com/Freelle/Frontend-Frelle)

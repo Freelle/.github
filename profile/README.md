@@ -17,5 +17,5 @@ Links do projeto:
 -  [Documentação](https://github.com/Freelle/Doc-Frelle)
 -  [Backend](https://github.com/Freelle/Backend-Frelle)
 -  [Frontend](https://github.com/Freelle/Frontend-Frelle)
--  [Microsserivço de pix](https://github.com/Freelle/Microsserivce-Pix)
+-  [Microsseriviço de pix](https://github.com/Freelle/Microsserivce-Pix)
 -  [Microsserviço de chat](https://github.com/Freelle/Microsservice-Chat)
